@@ -1,0 +1,5 @@
+# macOS system file
+.DS_Store
+
+# Original binary resumes — not GitHub-readable; keep locally for visual reference
+*.pdf
